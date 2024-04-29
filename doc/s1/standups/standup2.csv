@@ -1,0 +1,6 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov 24th,1,2,Zezhu,Finished implement the send twitter and online game feature,Implement the observer pattern and factor pattern,about 3 days,havn't observer any blockers
+Nov 27th,1,2,Pengcheng,Implement the Builder Pattern and load board feature,Implement the randomly generated board feature,In one day,Need an algorithm to generate a board following the rules of the game which is working on DEV-14
+Nov 27th,1,2,Philip,Implement timer feature,Implement steps count rank when vs greedy,In 1 day,"Hard to not count people's typing time (inputing command), has to count that time period as user's thinking time. "
+Nov 27th,1,2,Hongsheng,Implement chatmodel featur,I will add some string to the code to get rid of the string with,about 10 hours,It is difficult to know where to enable this mode.
+,,,,,,,

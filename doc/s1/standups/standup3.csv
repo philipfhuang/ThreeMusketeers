@@ -1,0 +1,6 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov 28th,1,3,Pengcheng,Implemented the randomly generating board feature,Implement the command pattern,In a day,I need the Command interface and relative classes which is working on [command] branch
+Nov 28th,1,3,Zezhu,Finished impletemented the observer and factor pattern and merge it to the develop branch,impletement the human move score and possible move features,about 3 days,No any blockers found currently
+Nov 28th,1,3,Philip,"Fixed bugs that sometimes ""board is null""",Implement player's steps count and rank when vs greedy,In 3 hours,No
+Nov 28th,1,3,Hongsheng,Finished strategy patten,Build patten according to the pdf made by sp0,about 6 hours,When I add patten the code does not work properly.
+,,,,,,,

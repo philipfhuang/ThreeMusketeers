@@ -1,0 +1,18 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 1.1,Timer Feature,Philip,2,2,User,A timer to show how long did I think on each step, I get tracked on how I performe on each move, get start time and end time of each move.
+User Story 1.2,Rank Human vs Greedy,Philip,3,3,User,A rank for how many steps the player take to win GreedyAgent,I can compare with myself and other players,count steps take when vs Greedy and save to a local file.
+User Story 1.3,Load Board Feature,Pengcheng,1,1,User,Before selecting a game mode I can load different file to choose different board.,I can play the game with different boards.,Based on the Builder Pattern create a board builder so user can choose which file to load.
+User Story 1.4,Random Board Feature,Pengcheng,2,3,User,A random board which is not in the file list,I can play the game with lots of different boards,Randomly generating a board which follows the rule of the game.
+User Story 1.5,show huaman move score,Zezhu,2,3,User,a feature to show how many score can human move get in computee prespective,the human agent can analysis each move to win the game,use the same method as greedy agent to compute the score.
+User Story 1.6,show possible move for human agent,Zezhu,3,2,User,to show the possible move in human turn,the human agent can know the possible steps for their turn and make a correct move,use getPossibleMove to show all possible move.
+User Story 1.7, Cheat mode, Hongsheng, 2, 2, User, reducing the difficulty of the game, players can move more than once in a turn, keep turn on player.
+User Story 1.8, Chat mode, Hongsheng, 2, 2, User, increase the fun of the game, The computer will respond with a sentence based on the score, Set a string[] and return a string from string[] based on the current score.
+User Story 1.9,Move Feature Bug,Philip,1,1,Developer,To fix the bug that the program crash and returns java.lang.NullPointerException: Cannot invoke ThreeMusketeers.Piece.getType() because the return value of ThreeMusketeers.Cell.getPiece() is null,I can keep playing the game, fix canMoveOnto() function.
+User Story 1.10,GreedyAgent Bug,Pengcheng,1,2,Developer,GreedyAgent works correctly,I can play with smarter AI,Fix BoardEvaluatorImpl class.
+User Story 1.11,online mode,Zezhu,3,2,Developer,the online mode work in the a3 version program,the user can play online with their friends in the game,edit the demo branch to adapt the a3 master branch program
+User Story 1.12,builder pattern,Pengcheng,1,2,Developer,have ablilties to builder different boards,the user can choose the board dynamicly,Setup a BoardBuilder class and different type of builders.
+User Story 1.13,command pattern,Pengcheng,1,2,Developer,Extracte all inputs commands user will called,the user call will not directly connected with board class,Setup the Command and Operation Classes to implement command pattern
+User Story 1.14,iterator pattern,Philip,1,2,Developer,I want to have less nested loop when iterating through board.cell,The code is more orderly and readable and orginaze better,Implelent Iterator to Board
+User Story 1.15,observer pattern,Zezhu,1,2,Developer,the board called cell for update,the cell get update passively,the board extends observable class and cell impletements observer interface
+User Story 1.16,strategy pattern,Hongsheng,1,2,Developer,Allows for more flexible and reusable calling code,Code runs faster,Pass method as a parameter to the code.
+User Story 1.17,factor pattern,Zezhu,1,2,Developer,the program generate different piece base on the input string,the program folows the law of Demeter,create a cellCreate class to generate different piece base on the string input

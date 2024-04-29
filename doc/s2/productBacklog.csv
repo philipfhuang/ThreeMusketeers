@@ -1,0 +1,3 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 1.5,show huaman move score,Zezhu,2,3,User,a feature to show how many score can human move get in computee prespective,the human agent can analysis each move to win the game,use the same method as greedy agent to compute the score.
+User Story 1.11,online mode,Zezhu,3,2,Developer,the online mode work in the a3 version program,the user can play online with their friends in the game,edit the demo branch to adapt the a3 master branch program

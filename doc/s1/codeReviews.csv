@@ -1,0 +1,7 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV-14_randomBoard,random board feature,Philip,https://github.com/UTMCSC207/assignment3-unclealone/pull/3,"Good implementation, but method ""getFiles"" has unused return value"
+DEV-18_cheatmode,cheat mode feature,Pengcheng,https://github.com/UTMCSC207/assignment3-unclealone/pull/12,The feature works prefectly but need a switcher to enable it by user
+DEV-110_greedyBug,greedyBug,Philip,https://github.com/UTMCSC207/assignment3-unclealone/pull/1,"Bug fixed, greedy works fine."
+DEV-115_observer,observer pattern,Hongsheng,https://github.com/UTMCSC207/assignment3-unclealone/pull/5,This pattern looks good.
+DEV-116_strategy,strategy pattern,Zezhu,https://github.com/UTMCSC207/assignment3-unclealone/pull/7,The pattern has been impletement and work prefectly
+DEV-117_factor,factor pattern,Pengcheng,https://github.com/UTMCSC207/assignment3-unclealone/pull/6,The pattern was designed very well but need more efforts to fit the Builder Patter parts

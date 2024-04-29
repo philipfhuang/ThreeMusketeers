@@ -1,0 +1,7 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov 21st,1,1,Zezhu,Start implement the send twitter and online game feature,the demo version,about a week,The hardest part in this impleme is to figurout how the game client commuicate to the server
+Nov 25th,1,1,Pengcheng,fix the greedyAgent's bugs,I will working on implementing builder partten and load board features,In one day,My work requires the BoardBuilder class which is currently in progress for DEV-13.
+Nov 25th,1,1,Philip,Implemented Iterator pattern,Fix bugs (DEV-09) and reorder codes to be more readable,In 1 day,"Some times codes have errors due to bugs that metioned in sprint0, waiting for DEV-19 and DEV-110 to be finished so I can test the code. "
+Nov 26th,1,1,Philip,"Fixed bug of ""piece is null""",Implement timer feature,In 1 day,Some codes are not readable and have to be reordered.
+Nov 25th,1,1,Hongsheng,Start writing cheatmode mode,I will start adding features to the code on A1,about 24 hours,I need to find a suitable place to call this method.
+,,,,,,,
