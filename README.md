@@ -1,6 +1,5 @@
 # ThreeMusketeers Game
 
-## Introduction
 Welcome to ThreeMusketeers, a Java implementation of the classic board game with added features for enhanced gameplay experience. In ThreeMusketeers, players take turns moving their pieces strategically to capture opponents' pieces. This README provides an overview of the game, its features, and instructions for playing.
 
 ## Features
